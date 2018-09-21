@@ -1,0 +1,17 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.nav li {
+	display: inline-block;
+	padding: 10px;
+}
+
+.nav li:hover {
+	background-color: #eee;
+}
